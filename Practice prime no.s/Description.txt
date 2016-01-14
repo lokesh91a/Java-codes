@@ -1,0 +1,2 @@
+Factorization:
+A number is taken as a input from command line argument and all prime factors of that number are printed as output

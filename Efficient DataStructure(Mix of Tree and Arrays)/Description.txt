@@ -1,0 +1,4 @@
+This program uses Tree and Array both to make a efficient data structure and does the following fucntions:
+search, add , remove, clear and many others.
+
+

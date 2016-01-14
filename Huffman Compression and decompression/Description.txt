@@ -1,0 +1,4 @@
+This program compresses a given file(name of which is passes as a command line argument) and again decompresses it.
+-Huffman algorithm is used for compressing it.
+-Codes for each alphabet is generated according to its frequency.
+-Bit operations are used to write the compressed file using codes.

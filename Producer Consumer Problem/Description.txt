@@ -1,0 +1,8 @@
+This program implements a solution to producer-consumer problem which is:
+Box makes boxes but not more than 30
+candymaker makes candies but no more than 30
+wrappingpapermaker makes papaer to erap but not more than 4
+candyandpaperconsumer consumes 1 candy and 3 paper to make 1 wrapped candy
+Complete box takes 1 box and puts 5 wrapped candies in it and make 1 complete box.
+
+All factories are working in a synchronized but but are not not dependent on each other.

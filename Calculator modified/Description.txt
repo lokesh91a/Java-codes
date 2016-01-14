@@ -1,0 +1,4 @@
+Calculator:
+Program which solves the arithmetic operation with following operators;
++, -, /, %, ^, * and ()
+

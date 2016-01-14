@@ -1,0 +1,8 @@
+This program simulates the crossing of a bridge with the following requirements:
+- at any given time the bridge can only hold 200000 lbs and no more than 4 trucks can be on the bridge at the same time 
+- each truck has a random weight between 100 lbs and 100000 lbs 
+- the trucks arrive at the bridge from both sides 
+- the order of the crossing is first come, first cross 
+- the maximum number of trucks have to cross the bridge
+
+This program is done using threading.
